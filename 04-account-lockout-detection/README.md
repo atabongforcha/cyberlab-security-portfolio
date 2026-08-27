@@ -58,3 +58,13 @@ index=* sourcetype="XmlWinEventLog:Security"
 )
 | table _time EventID Activity TargetUserName IpAddress CallerComputerName host
 | sort _time
+
+```
+
+## Evidence
+
+### Splunk Correlation: Kerberos Failures and Account Lockouts
+
+The following evidence shows repeated Event ID 4771 authentication failures correlated with Event ID 4740 account lockouts.
+
+![Splunk 4771 and 4740 correlation](splunk-4771-4740-correlation.png)
