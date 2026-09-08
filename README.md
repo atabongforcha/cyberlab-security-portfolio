@@ -1,6 +1,11 @@
 # CyberLab Security Portfolio
 
 Hands-on cybersecurity lab demonstrating enterprise security architecture, Active Directory security, SIEM monitoring, detection engineering, attack simulation, incident investigation, and remediation.
+## Project Roadmap
+
+This CyberLab contains **50 hands-on cybersecurity projects** organized across six integrated portfolio categories.
+
+[View the complete CyberLab Project Roadmap](ROADMAP.md)
 
 ## Lab Environment
 
