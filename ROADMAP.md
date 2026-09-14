@@ -88,9 +88,9 @@ Projects in this category demonstrate AWS security, identity and access manageme
 | No. | Project                          | Status         |
 | --: | -------------------------------- | -------------- |
 |  29 | AWS CyberLab Security            | 🚧 In Progress |
-|  30 | AWS IAM Least-Privilege Project  | 🚧 In Progress |
-|  31 | AWS Secure EC2 Administration    | ✅ Completed    |
-|  32 | AWS Security Monitoring          | 🚧 In Progress |
+| 30 | [AWS IAM Least-Privilege Project](07-aws-ec2-iam-ssm-hardening/) | ✅ Completed |
+| 31 | [AWS Secure EC2 Administration](07-aws-ec2-iam-ssm-hardening/) | ✅ Completed |
+| 32 | [AWS Security Monitoring](08-aws-cloudtrail-cloudwatch-alerting/) | ✅ Completed |
 |  33 | AWS Misconfiguration Detection   | 📋 Planned     |
 |  34 | Infrastructure as Code Security  | 📋 Planned     |
 |  35 | DevSecOps Pipeline               | 📋 Planned     |
