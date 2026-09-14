@@ -33,7 +33,7 @@ Projects in this category demonstrate Active Directory administration, Windows s
 | No. | Project                                                      | Status      |
 | --: | ------------------------------------------------------------ | ----------- |
 |   1 | Active Directory Security & Domain Controller Administration | ✅ Completed |
-|   2 | Windows Security Logging & Event Forwarding                  | ✅ Completed |
+| 2 | [Windows Security Logging & Event Forwarding](02-windows-security-logging/) | ✅ Completed |
 | 3 | [Splunk SIEM Deployment & Detection Engineering](03-splunk-siem-detection-engineering/) | ✅ Completed |
 | 4 | [Wazuh SIEM / Endpoint Monitoring](05-wazuh-siem-endpoint-monitoring/) | ✅ Completed |
 | 5 | [Failed Logon Detection](06-failed-logon-detection/) | ✅ Completed |
