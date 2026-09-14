@@ -42,8 +42,13 @@ Detection and investigation of Windows failed authentication events using Splunk
 ### 2. Active Directory Account Lockout Detection
 Correlated repeated Kerberos authentication failures (Event ID 4771) with Active Directory account lockouts (Event ID 4740).
 
+### 2. Active Directory Account Lockout Detection
+Correlated repeated Kerberos authentication failures (Event ID 4771) with Active Directory account lockouts (Event ID 4740).
+
+### 3. [Windows Active Directory Password Spray Detection with Splunk](10-password-spray-detection/)
+Simulated a controlled password spray against six Active Directory test accounts, detected Windows Security Event ID 4625 activity using Splunk XML field extraction and SPL correlation, and operationalized a scheduled high-severity alert.
+
 ### Upcoming Exercises
-- Password Spray Detection
 - Network Reconnaissance Detection
 - Vulnerable Service Investigation
 - PowerShell Activity Detection
