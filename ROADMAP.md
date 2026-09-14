@@ -38,7 +38,7 @@ Projects in this category demonstrate Active Directory administration, Windows s
 |   4 | Wazuh SIEM / Endpoint Monitoring                             | ✅ Completed |
 |   5 | Failed Logon Detection                                       | ✅ Completed |
 | 6 | [Account Lockout Detection](04-account-lockout-detection/) | ✅ Completed |
-|   7 | Password Spray Detection                                     | 🔴 Next     |
+|   7 | Password Spray Detection                                     | Completed |
 |   8 | Brute-Force Authentication Detection                         | 📋 Planned  |
 |   9 | Successful Login After Failed Attempts                       | 📋 Planned  |
 |  10 | Privileged Account Monitoring                                | 📋 Planned  |
