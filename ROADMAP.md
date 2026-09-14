@@ -36,7 +36,7 @@ Projects in this category demonstrate Active Directory administration, Windows s
 |   2 | Windows Security Logging & Event Forwarding                  | ✅ Completed |
 |   3 | Splunk SIEM Deployment & Detection Engineering               | ✅ Completed |
 |   4 | Wazuh SIEM / Endpoint Monitoring                             | ✅ Completed |
-|   5 | Failed Logon Detection                                       | ✅ Completed |
+| 5 | [Failed Logon Detection](06-failed-logon-detection/) | ✅ Completed |
 | 6 | [Account Lockout Detection](04-account-lockout-detection/) | ✅ Completed |
 | 7 | [Password Spray Detection](10-password-spray-detection/) | ✅ Completed |
 |   8 | Brute-Force Authentication Detection                         | 📋 Planned  |
